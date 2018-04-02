@@ -146,7 +146,7 @@ Just as we did before, let's look at what the resulting HTML looks like:
 
 Alright now! If this is the first time you have seen React syntax, take a moment. Stretch your limbs, make a sandwich, let the glorious paradigm sink in. This is a core facet of React programming, and most of what we do going forward is going to build upon this component parent/child paradigm.
 
-## Summary
+## Summarym
 
 **React components:**
   - Are modular, reusable, and enable a 'templating' like functionality
